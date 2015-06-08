@@ -1,0 +1,29 @@
+{
+  "name": "ng-scroll",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jorge07/ng-scroll",
+  "authors": [
+    "jorge <jorge.arco@aleadigital.com>"
+  ],
+  "description": "Angular simply scroll listener",
+  "main": "src/ngScroll.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "scroll",
+    "angular",
+    "scroll",
+    "scroll",
+    "spy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
